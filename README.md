@@ -7,4 +7,4 @@
 
 - в конце выводятся общие итоги.
 
-[образец ИНВ3 из консультант+]!(https://github.com/tudentNeto/VBAModule-/образец ведомости.png)
+![образец ИНВ3 из консультант+](https://github.com/tudentNeto/VBAModule-/образец ведомости.png)
